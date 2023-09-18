@@ -1,0 +1,4 @@
+git remote add origin https://github.com/Ilaya13/git-day-1.git
+git push -u origin master
+
+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
